@@ -1,0 +1,8 @@
+; Add BGP Peers here, in the format of
+; name,ip.add.re.ss,remote_asn
+;
+; Do not use spaces.
+;
+; For example:
+xrobau,203.9.226.15,9449
+
